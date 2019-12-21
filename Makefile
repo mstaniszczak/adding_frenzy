@@ -1,2 +1,2 @@
 test:
-	python -m pytest --cov=adding_frenzy --cov-report=term
+	python3 -m pytest --cov=adding_frenzy --cov-report=term
